@@ -1,0 +1,13 @@
+# Base SQLite : régénérée à chaque démarrage depuis les CSV, ne jamais la versionner
+*.db
+*.sqlite
+*.sqlite3
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.venv/
+.DS_Store
+.vscode/
+.env
